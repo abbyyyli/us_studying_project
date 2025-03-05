@@ -1,0 +1,932 @@
+[
+    {
+        "Rating": 5,
+        "Review": "The Massachusetts Institute of Technology (MIT) is widely regarded as one of the premier institutions for science, technology, engineering, and mathematics (STEM) in the world. Located in Cambridge, Massachusetts, MIT has built a reputation for its rigorous academic programs, cutting-edge research, and innovative culture.",
+        "Author": "Graduate Student",
+        "Date": "2025-02-09T02:00:21.340931Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT offers an unparalleled academic experience with world-class faculty, cutting-edge research, and a collaborative culture. The opportunities for innovation, networking, and career advancement are exceptional. I particularly appreciated the supportive community and access to state-of-the-art facilities. However, the rigorous workload can be overwhelming, and balancing academics with personal life is challenging. Financial aid is generous but could be more inclusive for middle-income families. Overall, MIT fosters an environment for driven individuals to excel and make an impact. It’s ideal for those passionate about solving real-world problems, but prospective students should be prepared for its intensity and high expectations.",
+        "Author": "Freshman",
+        "Date": "2024-12-30T19:06:58.777769Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "It is one the top ten colleges in the world and I am happy to be here. I grateful for this college and there are million kind words to describe this college.",
+        "Author": "Freshman",
+        "Date": "2024-11-23T00:22:43.150925Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Rigorous yet rewarding educational experience, especially in the fields of robotics and mechanical engineering.",
+        "Author": "Graduate Student",
+        "Date": "2024-09-29T01:27:24.807947Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Excellent academics, but as the students say, it really is \"drinking from a firehose.\" There are some truly amazing people at MIT, and Cambridge has gotten better over the years.",
+        "Author": "Alum",
+        "Date": "2024-09-25T21:22:15.730379Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "As a student at MIT, I can confidently say that the experience is both challenging and rewarding. The academic rigor here is unmatched; classes are fast-paced and intellectually stimulating, pushing you to think critically and creatively. The professors are not only experts in their fields but also genuinely invested in their students’ success. \n\nCollaboration is a core aspect of MIT culture, and I love working alongside brilliant peers who inspire me to think outside the box. The resources available—from cutting-edge labs to research opportunities—are incredible. \n\nOutside the classroom, the vibrant campus life offers a variety of clubs, events, and hackathons, ensuring there’s never a dull moment. While the workload can be intense, the support system among students and faculty is phenomenal. Overall, MIT is a place where passion meets innovation, making it an unforgettable journey.",
+        "Author": "Other",
+        "Date": "2024-09-21T18:11:47.706828Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I really like the academic rigor and prestige that comes with attending MIT. There are so many amazing people that I have met, although the food scene could use some improvement.",
+        "Author": "Sophomore",
+        "Date": "2024-07-17T18:40:34.775691Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "My experience has greatly exceeded my already-high expectations.  My professors have always been available and the opportunity to apply my studies and skills to research projects was great.   My fellow student are good people and everyone in have met has some kind of truly unique capability.  I have learned that being in the top 99% of GPA and test scores is great, but I routinely meet people in the top 99.5% and they seem many times smarter than me.  Being around people like this keep me humble and motived.  I like party scene, as I can alway find something fun to do whenever time allows.  I also like that most of my colleagues are not trying to 'look' smart...and anyone who would try this would soon find that someone right next to them is many time more capable.  I really like this place.",
+        "Author": "Other",
+        "Date": "2024-07-10T20:10:47.455031Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I really love the campus, it is a vibrant environment and very diverse. I feel welcome there and feel as if it is a home away from home.",
+        "Author": "Graduate Student",
+        "Date": "2024-07-09T15:22:42.753434Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "MIT has great academics. It’s located near Boston so it is around a lot of places and other colleges. However the weather is scuffed. Also MIT’s campus is um…. Not pretty (to say the least). You definitely have to go out of your way to find fun things on campus— fun does not come to you. Some students have a hard time at MIT, especially mentally. Personally I’m not in tune with my emotions enough to let MIT get me down, but it’s very common at such a school.",
+        "Author": "Sophomore",
+        "Date": "2024-06-23T23:26:29.858456Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I really appreciated the many opportunities to get involved in challenging stem coursework and research, as well as the amazing community of fellow students and professors to learn from.",
+        "Author": "Senior",
+        "Date": "2024-06-15T15:04:44.569774Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "This is a great university for expanding your horizons, especially if you are from a small area. The initial year gives a lot of freedom for exploring options for your major, and there are great support systems from both students and administration that help adjust to being an MIT student. There are plenty of readily available resources in various departments that allow for personal or academic exploration without having to worry about cost.",
+        "Author": "Junior",
+        "Date": "2024-06-05T19:13:53.895604Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Just about as academically difficult as you might expect. There's no lack of exciting extracurricular activities though.",
+        "Author": "Freshman",
+        "Date": "2024-03-27T00:01:07.658651Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Great place to be challenged, learn, and grow. A safe environment to fall and fail. Lots of support and resources available but you need to take the initiative to reach out about them",
+        "Author": "Sophomore",
+        "Date": "2024-03-08T19:06:01.944747Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I am pleased with my experience at MIT. I got a full ride scholarship and also there is an excellent environment here .",
+        "Author": "Junior",
+        "Date": "2023-12-04T13:33:52.386093Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Like many  students at MIT, I stepped foot on campus with imposter's syndrome--terrified that I had just set myself up for failure. I met a few friends here and there, and slowly realized that I am not alone. We all just opened a new chapter of our lives, eager to see where it would lead. And the only way to truly cherish this chapter was to do it together. So we did. We went to lectures together, marvelling at our professor's world renowned research. We attempted problem sets together, struggling with questions of difficulty we hadn't seen before. We walked across the bridge to Boston together, exploring the new city we began to call home. We laughed in our dorm rooms, joking with new friends and roommates. We partied on the weekends, celebrating the end of a stressful week. We studied hard in the library late at night until we fell asleep. MIT taught me that I don't have to do this alone--I'm not supposed to. My friends, my family, my community... WE do this together.",
+        "Author": "Sophomore",
+        "Date": "2023-07-06T12:45:29.517887Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I've really liked the clubs I've joined and the people that I have met here. One recurring issue is the reliability of the wifi on campus.",
+        "Author": "Freshman",
+        "Date": "2023-06-28T23:16:45.753054Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Studying at the MIT has been an enlightening and enriching journey. The opportunity to learn from some of the most distinguished professors and work with bright, ambitious peers is unparalleled.\n\nThe curriculum is rigorous and challenging, which I appreciate as it pushes students to their intellectual limits. MIT's focus on combining theory with practical application is particularly engaging. For example, not only did I learn the theory behind machine learning algorithms, but I also got to implement these algorithms to solve real-world problems. This hands-on approach is what sets MIT apart from many other institutions.\n\nFurthermore, MIT's culture of innovation and entrepreneurship is highly motivating. The environment encourages students to think outside the box, fostering an innovative mindset. It's also commonplace for undergraduates to work in research labs, contributing to groundbreaking advancements in various fields.",
+        "Author": "Freshman",
+        "Date": "2023-06-15T19:22:40.138903Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "At MIT, it truly is \"drinking from the firehose\" as they like to describe. While classes are intense, I found my peers to be extremely willing to help and work through our homework together. I never felt like I couldn't ask for help from my friends. Between professors and classmates, you'll find a very supportive environment and collaborative culture. In terms of social life, I was surprised by how much MITers like to party and socialize. Unlike other universities, most of the party scene is in the fraternities (>50% of MIT men are affiliated in Greek life). Majority of students live on-campus, or in independent living groups close to campus, which creates a really tight-knit community feel with campus. A few things I would like to see change are MIT Admin's focus on student life and amenities. Over my years at MIT, there were many issues regarding dorms shutting down, facilities being outdated (e.g., student center). Would love to see more investment in student life in the future",
+        "Author": "Alum",
+        "Date": "2023-05-30T15:00:01.328972Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I am an incoming freshman, so my experience is very limited. I have had two visits for volleyball and a campus preview weekend. During those times I felt extremely welcomed and the school felt as collaborative as it is known for. Overall, I have had only great experiences at MIT so far and I am confident that will continue.",
+        "Author": "Other",
+        "Date": "2023-05-18T05:35:25.047317Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "My experience at MIT has been fruitful. I have learned a lot more than I could have ever imagined, and I am grateful for all the professors and fellow students who were able to help me grow as a scholar. Although the work was tough at times, I was able to push through by assistance from amazing peers and mentors who understood the value of education and learning. Personally, I would like to see more transparency in terms of grading, as there is some grade deflation that occurs in the school and is not laid out very clearly.",
+        "Author": "Senior",
+        "Date": "2023-05-16T18:25:39.81309Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Academically, the school is absolutely wonderful. The professors were amazing and very helpful and understanding. I took physics, Calculus, philosophy, and an extra smaller physics class with a professor who is a Nobel laureate which was an incredible experience. Socially, the campus is very diverse and people are welcoming and collaborative albeit a bit reserved most of the time. I received a lot of support from the deans and MIT therapy department which were both wonderful and I would highly recommend taking advantage of.",
+        "Author": "Freshman",
+        "Date": "2023-05-11T21:17:45.213247Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I got my PhD from MIT in Civil and Environmental Engineering. It was the most challenging and transformative experience of my life.  I was lucky to work a super smart academic advisor for 6 years. I am eternally grateful for the experience.",
+        "Author": "Alum",
+        "Date": "2023-04-15T20:35:11.283737Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Its MIT. Everything is awesome. You can study anything your heart desires. Its extremely rigorous so be prepared to put in the work. If you are not prepared to cope do not come.",
+        "Author": "Graduate Student",
+        "Date": "2023-04-01T02:57:11.736194Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I earned a Masters of Linguists, then a Ph.D. in neuroscience. I enjoyed the extremely high-level of education and the professors. I had taken a lot of overloads, as the environment is so focused, with so much mental stimulation for a curious person like me.\n\nNowhere else could I enjoy the number of weird students with high-performing Asperger's spectrum (not a disorder, but geniously-abled), that a meal with them and other activities were always an adventure in ethnography (I kept a notebook of observations).\n\nIf you want a \"normal\" higher-education experience, with lots of parties, go down the street and enroll at Harvard, where admissions is far, far easier, and the academic pressure is infinitely easier.",
+        "Author": "Alum",
+        "Date": "2023-03-22T22:28:44.071289Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Excellent professors and student body. Boston is best environment for college students. Housing and food average athletics only intramural",
+        "Author": "Graduate Student",
+        "Date": "2023-01-31T04:48:23.145373Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "This is a great school! I loved attending it! Lot of good resources, good teachers, and opportunities.",
+        "Author": "Sophomore",
+        "Date": "2023-01-17T02:24:49.949351Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Haven't attended yet but the campus and faculty are all super friendly and passionate about their relative topics of study. I am really excited to attend based on my past visits there.",
+        "Author": "Niche User",
+        "Date": "2023-01-02T17:10:46.987192Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT is the best school if you like math, science, computer science or many other subjects. MIT's culture is to help each other and succeed together.",
+        "Author": "Freshman",
+        "Date": "2022-12-30T18:11:37.67728Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT is a life-changing place with great professors and intelligent students. The students are absolute geniuses, as am I. - Leo",
+        "Author": "Junior",
+        "Date": "2022-11-04T04:08:09.945996Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I greatly enjoyed my time at MIT! I was given the chance to learn with experts in their fields who were flying back and forth to DC to inform the most important decisions. I loved the collaborative mentality on campus and the ability to work together with classmates to all learn the most and succeed.",
+        "Author": "Senior",
+        "Date": "2022-11-03T15:37:42.34433Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Very good research opportunities, very bad campus dining but diverse surrounding area with good food, sights, and housing albeit expensive.",
+        "Author": "Senior",
+        "Date": "2022-10-22T08:36:46.324934Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Just got admitted this past year. The orientation programs and Campus Preview Weekend were both amazing experiences.",
+        "Author": "Freshman",
+        "Date": "2022-08-11T21:12:14.734142Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Great peers, caring professors, challenging content, but an incredible experience. You get into it what you put out of it.",
+        "Author": "Sophomore",
+        "Date": "2022-07-18T12:13:00.355784Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Though the academics can be undoubtedly stressful and challenging, the people and opportunities at MIT truly make the experience worthwhile. I am supported by a fantastic dorm community, really supportive professors, and am always excited by the ways I can get involved in my own research and education.",
+        "Author": "Sophomore",
+        "Date": "2022-07-17T18:27:59.99212Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "The community is very focused on collaboration over competition and this is evident in every aspect of the school from the administration to the students. Financial aid at MIT is also exceptional. My academic experience so far has been challenging but manageable thanks to the array of student help services found around the school. In addition, the health services provided by MIT Medical are extremely helpful. The only complaint I have is that I felt unprepared going into my first semester because I did not know what classes to take or what to expect, but this seems fairly standard for college experiences.",
+        "Author": "Freshman",
+        "Date": "2022-06-27T04:07:33.66846Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Sheldon Cooper, Leonard Hoffstadter, Rajesh Koothrappali, Amy Farrah-Fowler, Bernadette Rostenkowski, Howard Wolowitz, Barry Kripke, Bert Kibbler, Leslie Winkle. Must I say any more?",
+        "Author": "Niche User",
+        "Date": "2022-04-29T17:17:15.070844Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT is every bit as amazing as you've heard. Opportunities afforded MIT students would be unimaginable for students at most schools. So too workload, course rigor, social scene, creativity & level of student & faculty accomplishments. Yeah there are unfortunate MIT stereotypes, they're far from reality; Maybe generated by people at other schools to help them feel better about not being at MIT. \n\nOne aspect of MIT worth mention-money doesn't rule. Getting a deposit in quickly won't get you a better dorm. No deposit is required. You won't be closed out of MIT related trips cause you can't afford them.MIT doesn't charge for them. Admit chances aren't higher if you're wealthy, donate money, mom went to MIT.  You won’t be surrounded by people who flaunt money or use it to beat out others. It’s not lack of students from wealthy families but money isn't coin of realm-that's achievement. Looking for a place where money speaks more? Go up Mass Ave.",
+        "Author": "Alum",
+        "Date": "2022-02-25T20:33:03.052726Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "A great school with incredible culture and an amazing student body. It's often absolutely overwhelming and there are certainly a lot of issues to be found, but there isn't anywhere I'd rather spend my college years.",
+        "Author": "Junior",
+        "Date": "2022-02-04T06:37:30.564791Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Currently reaching near the middle of my time here, and this school truly works you to the bone. The baseline of this place is that everyone is very smart. Some are decently smart and work hard enough to get in, others come in doing Olympiads from when they were 5 years old.\n\nThe students are very diverse. Some come in \"normal\", others finally get to truly express the weird and unique that they've been suppressing their whole lives. The campus is extremely welcoming and you really get to be who you want to be; it's very beautiful. Each dorm has an extant history and culture; you can automatically learn about someone by what dorm they live in.\n\nThe academics are exceedingly difficult by content and pace. The problem set difficulty are elevated beyond a typical school's, and they force you to collaborate with others. Everyone must collaborate. You're forced to learn time management skills.\n\nI was finally able to satisfy my love for learning here. Truly an amazing and unique school!",
+        "Author": "Sophomore",
+        "Date": "2022-01-10T03:28:43.72964Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Best place to challenge yourself academically. However, time management is a must if you want to get enough sleep to even function.",
+        "Author": "Sophomore",
+        "Date": "2021-12-31T02:48:27.582613Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Amazing classes offered and very flexible with exploring classes and choosing classes to take for your major. Also provides a diverse class selection, including STEM, humanities, research, ethics, arts, social sciences, and physical education. \nAlso great, collaborative student body that's very hard-working and amiable. The professors are also very interested and engaged in what they do. \nMIT also offers a very strong mental support system with many resources for dealing with counseling, unique circumstances, and other struggles.",
+        "Author": "Sophomore",
+        "Date": "2021-12-31T00:13:05.66704Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "It was great It was great It was great It was great It was great It was great  It was great It was great",
+        "Author": "Freshman",
+        "Date": "2021-11-19T13:42:15.994184Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "SO supportive of students\n\nWhen speaking to friends who attend other colleges, I am repeatedly shocked by the lack of resources they have compared to MIT. Our S^3, DAS, and TSR^2 departments have saved my life so many times.\n It's so easy to make an appointment with mental health services, although they are overloaded.\n\nAre most people here somewhat depressed? Yes, at least in my experience. \n\nThere seems to be a great divide between the neurodivergent-LBGT-weird East side of campus and the more normal west side of campus, and I can only offer the East campus perspective (Random Hall). MIT does seem to be doing actions that suppress the east campus side, which is bad. \n\nBut I don't think I would go anywhere else. The people here are very genuine, if stressed; the financial aid is great; Admissions and S^3 and some other departments really care about the kids; there is so much opportunity; and we're WAY better than harvard.",
+        "Author": "Freshman",
+        "Date": "2021-10-27T18:21:17.146506Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "The great college in all aspects of teaching, student life, campus and so no. Next year i will go to grade school.",
+        "Author": "Graduate Student",
+        "Date": "2021-09-01T07:20:50.859039Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "It is amazing and it is the best college in the world. It is really fun and has great food. It also has a lot of diversity.",
+        "Author": "Niche User",
+        "Date": "2021-05-13T13:25:29.763983Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "it was an experience of a lifetime. it was always my dream to go to mit just to see what it was like and it was something I will always cherish",
+        "Author": "Niche User",
+        "Date": "2021-03-12T14:12:33.797656Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "it’s alright; the professors are very smart and the people are super interesting. there are a lot of research opportunities.",
+        "Author": "Freshman",
+        "Date": "2021-03-07T10:50:22.319194Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Best experience of my life; like a kid in a candy store.  You are exposed to so many different \"flavors\" of things to learn.",
+        "Author": "Alum",
+        "Date": "2021-02-27T21:48:38.863882Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I really like the collaboration that I have with other students, my professors, and my TAs/mentors. MIT has so many academic tutoring programs that I enjoy attending. Also, I love the different independent research opportunities and clubs that I'm in. These really help me progress in my career development and give me some social time with others outside of class.",
+        "Author": "Freshman",
+        "Date": "2020-11-06T07:22:33.225383Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Going into MIT I though I was smart - really smart, but I later found out that, yes, while I am smart, everyone else here is SUPER smart. This can go two ways - you can fall victim to imposter syndrome (believing you don't belong, you're not good enough) or you can rise to the occasion and leverage your peers and upperclassmen friends. That is what makes MIT - the people here are unlike people you've ever met. They're supportive, helpful, passionate, and they CARE about you more than you think. MIT is a tough place and it will put you in your place, but it does that to everyone. The playing field is even, there's no grading on a \"curve\" and we're not too competitive with each other (when it comes to classes). Your friends will help you with psets, career advise, clubs, and everything else - just as you would help them too. MIT is its own beautiful community with a home for everyone.",
+        "Author": "Junior",
+        "Date": "2020-08-28T12:05:42.988981Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "I've had a somewhat unique experience at MIT because unlike the majority of students, I'm not an engineering major. (GASP!) I majored in Brain & Cognitive Sciences (essentially neuroscience) and minored in Anthropology. I adored both of those departments - the classes, the teachers, the admins, the research opportunities. I know some other majors like chemical engineering are more difficult and aren't quite as adored by their students. \n\nIf you ask a student what there favorite part about MIT is, 90% of the time they will say the people. Being a specialized and somewhat quirky school, students at MIT have so much in common. Usually, that commonality is a passion to make a difference, openmindedness/acceptance, and a desire to play hard when not studying. Our student groups are varied and vibrant and our party scene is known as the best in Boston, but ultimately, we thrive on our close-knit community and appreciation for one another.",
+        "Author": "Senior",
+        "Date": "2020-04-30T23:07:12.941051Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Very good college for the learning point of view. Diversified culture, campus is cool and professors here are highly talented.",
+        "Author": "Junior",
+        "Date": "2020-04-29T05:22:08.415774Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "The student body is so passionate and self driven. They push me to be a better student. The opportunities gained from attending MIT are immense. I have also found a great community of people here, and feel that the classes, though rigorous, are truly preparing me to do great things in the world.",
+        "Author": "Freshman",
+        "Date": "2020-04-04T18:28:59.991604Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "How close you are with the cutting edge of technology on a constant basis is an exhilarating feeling that you get when you arrive there.",
+        "Author": "Niche User",
+        "Date": "2020-01-31T18:05:46.055968Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "There are many great opportunities to pursue your interests and achieve personal growth. Between the clubs, classes, research opportunities, and other resources, everyone is sure to find an area that fits their interest. \n\nSome potential areas for improvement might be financial aid packages and fostering social connections. The first point is fairly straightforward, but the latter is a bit more nuanced. Though their are many clubs and groups,  I wish there were even more opportunities for students to connect with one another and meet new people to find their community.",
+        "Author": "Sophomore",
+        "Date": "2020-01-18T20:55:01.31403Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT provides a wonderful place to call home. There is nothing I would even dream of changing. Attending was the best choice I have ever made.",
+        "Author": "Freshman",
+        "Date": "2020-01-03T13:40:46.840229Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Because the noble prize winners becomes professors and influence or instructors within it's own university. Also, the academic equipment was so very fascinating and amazing on being advanced and technical to using in the modern ages.",
+        "Author": "Niche User",
+        "Date": "2019-12-10T12:09:24.588748Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT is full of great opportunities. They really let their students experience education hands-on. Within months of studying here, I was able to pick up new skills and have access to various tools in the many makerspaces. The first-year experience has also been designed to ease the transition from high school to university.\n\nThe campus and food might not be the best, but that's not what university is for anyway. I think MIT remains the top science/engineering school in the world.",
+        "Author": "Freshman",
+        "Date": "2019-12-10T04:45:45.667079Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT was the most difficult four years of my life. At times, I was not sure that I would survive the academic rigor, but I did, and I even excelled. MIT pushes you hard so that you learn to harness your intellect and push back. It is also humbling to know your limits and work to push your own boundaries. It is not for the fain of heart. My experience was mildly traumatizing, but I would repeat those four years in a heartbeat.",
+        "Author": "Alum",
+        "Date": "2019-11-30T23:30:13.102232Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I think MIT is the best school in terms of academic. Just wow! The teacher are knowledgeable, the subject are so damn hard but worth it, I like everything about MIT.",
+        "Author": "Alum",
+        "Date": "2019-08-23T11:10:47.691234Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "From my first year here, I can safely say it is an amazing school overall. MIT has a variety of STEM based degrees to offer, though MIT is well known for its Engineering/Sciences it also provides and excellent courses in Humanities and Business. In my first year here my only viable complaint is the food, everything else is fantastic. If given the opportunity MIT will be a fantastic school to spend you next four years.",
+        "Author": "Sophomore",
+        "Date": "2019-08-06T22:28:48.647104Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT is an outstanding university with numerous and diverse opportunities in research and academics. Classes at MIT are indeed difficult, with homework and associated studying consuming a large chunk of time. The beauty of this is that it pushes students to go above and beyond their previous understanding of what they believed themselves to be capable of. Additionally, the explorative and creative atmosphere which springs from the vibrancy of the student body and the faculty is second to none. There are so many chances to do great things at MIT, even as an undergrad!",
+        "Author": "Junior",
+        "Date": "2019-07-18T19:07:15.571Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT is a challenging but supportive environment. Everyone here agrees that the best thing about it is the people - you're all struggling together, but at least you're together. The professors, especially those for freshmen, are really concerned for students and care that they are learning the material. There are a lot of opportunities for social activities such as dance, acapella, and sports.",
+        "Author": "Junior",
+        "Date": "2019-07-10T20:31:31.541945Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I have found my home at this school. While it is challenging, it has pushed me to understand the hard work that is required for success. There are plenty of extracurricular activities I can participate in to supplement my learning, and the location of the campus relative to Boston is perfect for exploration of the city. I know that my experience here will only have a positive impact on what I am capable of doing in the future.",
+        "Author": "Junior",
+        "Date": "2019-06-21T19:02:05.349815Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "You should learn about it for yourself; everyone's experience is different thus it's impossible to quantify it on this website.",
+        "Author": "Niche User",
+        "Date": "2019-06-20T00:52:45.04831Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I really enjoy it here. There is always something fun to do, be it a club or one-time activity, and the people are great.",
+        "Author": "Freshman",
+        "Date": "2019-06-06T22:02:57.438592Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Massachusetts Institute of Technology is a fantastic school that offers students an opportunity to explore anything. The staff is second to none and always encourage students to challenge themselves in whatever it is they are passionate about. Walking down the halls, you feel the energy and passion from students. The students at Massachusetts Institute of Technology live and breathe Science, Technology, Engineering and Mathematics. Everyone on campus is there to make the world a better place and that is what makes MIT so special. Everyone is highly intelligent and capable, but it’s the common desire to give back that makes the campus.",
+        "Author": "Graduate Student",
+        "Date": "2019-05-24T18:03:13.257498Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "This college is the best in the world. It sets you up for any job of your choosing. It not only provides opportunities for growth academically but socially as well.",
+        "Author": "Niche User",
+        "Date": "2019-05-06T02:42:43.792808Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "simply the best school in the world.\nbest academics, best faculty , best division 3 athletic department, best labs, best student culture, best party scenes, best school for entrepreneurs.\nMassachusetts institute of technology is like Hogwarts for technical wizards.",
+        "Author": "Niche User",
+        "Date": "2019-02-10T10:04:27.348704Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT has been a great experience for me!  Yes, it's difficult and stressful at times, but it's also the first place I've really been challenged, and I've met so many amazing people who have added more to my life than any amount of stress has taken away.",
+        "Author": "Junior",
+        "Date": "2019-02-01T16:27:15.99093Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Massachusetts Institute of Technology is a fantastic institution in all applicable fields. The prestige of the school itself will take you very far after you have graduated, and the professors you will be working with are Nobel prize recipients and masters of their disciplines. Besides academics, the campus life and college experience is unlike any other. By combining some of the brightest young minds in the country, MIT crafts a unique atmosphere that is both constructive and judgement free. A variety of different student-led activities keeps daily life dynamic, and you really cannot go wrong with the Cambridge and Boston area.",
+        "Author": "Niche User",
+        "Date": "2019-01-21T15:12:36.864586Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I loved the people that I met at MIT and the vibrant student life. I believe that campus spaces could be adapted to allow for more collaboration, productivity, and relaxation.",
+        "Author": "Senior",
+        "Date": "2018-12-28T02:06:10.488042Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "M.I.T is a great school overall their computer systems division is spectacular I recommend it to everybody",
+        "Author": "Freshman",
+        "Date": "2018-10-10T23:28:06.612364Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT has a wonderful, academic atmosphere which supports diverse teams in finding creative new approaches to existing problems in the world. From coursework, to classmates, to the resources, to the facilities, it is unparalleled!",
+        "Author": "Graduate Student",
+        "Date": "2018-08-16T04:29:17.249659Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Had a great freshman year. Great dorms, decent food, amazing professors. First semester was on a Pass/No Record grading system which was a huge help to me as I had come from a small public school with very few AP classes. Very good student community at this college as well. Everyone is willing to help one another.",
+        "Author": "Sophomore",
+        "Date": "2018-08-13T12:30:22.406165Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Best part is the abundant research opportunities available through UROPing. Highly accomplished professors and wide variety of advanced and interesting classes. Has distinct dorm cultures and tight knit communities. Prepares you well for any future career. Everything is great but not a fan of the food.",
+        "Author": "Sophomore",
+        "Date": "2018-07-15T03:27:19.364787Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "The opportunities and resources provided by MIT are amazing. What I love the most is the range of choice students have when it comes to classes, student organizations, study abroad opportunities, research, etc. The dorms are also unique and have their own diverse cultures, so students can find a living community where they feel like they belong.",
+        "Author": "Freshman",
+        "Date": "2018-06-12T18:05:00.252242Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "The academic rigor is challenging and the opportunities for clubs and research internships are unparalleled.",
+        "Author": "Freshman",
+        "Date": "2018-05-14T19:14:54.355673Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "This is literally the perfect college, and there is nothing I would do to change it. There are unlimited connections and opportunities in this community.",
+        "Author": "Niche User",
+        "Date": "2018-05-07T00:44:41.820302Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "It's been the best thing for me in the past four years. I have learned more than I could have imagined in the classroom and, even moreso, outside of it.",
+        "Author": "Senior",
+        "Date": "2018-04-18T13:43:08.633037Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "It is a environment that creates a feeling of accomplishment and encouragement to bring out your full potential.",
+        "Author": "Niche User",
+        "Date": "2018-03-31T00:57:02.508493Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Stellar faculty, resources, housing, activities, location, etc.\nI suppose our campus isn't as breathtaking as the others, but we do have a nice river.",
+        "Author": "Freshman",
+        "Date": "2018-02-18T00:22:28.220812Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT is amazing. The best part is the incredibly intelligent, hard working and diverse students you meet, and the extraordinary professors you learn from.",
+        "Author": "Graduate Student",
+        "Date": "2018-01-30T20:19:45.30412Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Food is very good and cheap at around 12 dollars a meal for amazing quality food. Parking is a breeze and cheap. You will always be welcomed and professors are very lenient about homework and assignments. Punishments are minimal. GREAT SCHOOL",
+        "Author": "Junior",
+        "Date": "2018-01-18T17:01:44.609329Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I think MIT is a great school!  The professors really care, and the environment is full of learning.  Many describe MIT as \"drinking from a firehose,\" but I think that in my case the firehose was shooting out awesomeness and knowledge.",
+        "Author": "Niche User",
+        "Date": "2018-01-07T01:28:53.874548Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "This is a brilliant school. It is rigorous, and it might push some students too hard, but for those who can take it is absolutely worth it.",
+        "Author": "Niche User",
+        "Date": "2018-01-02T20:36:37.587685Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I’ve only been at MIT for one semester but I really have been enjoying my time here. The courses are top notch, the resources are endless, there are lots of opportunities to do anything you want really (great research, student organizations, we even have a nice gym).",
+        "Author": "Freshman",
+        "Date": "2017-12-29T01:46:16.723678Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "More than you can expect! Never hesitate to apply to the school because the chances are for all people.",
+        "Author": "Graduate Student",
+        "Date": "2017-12-28T23:56:47.962346Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "My experiment at MIT was one that Will never forget. I learned things that I carry with me to this day.",
+        "Author": "Alum",
+        "Date": "2017-12-07T17:12:41.808864Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I have seen and took a tour in MIT. The dorms there seem to be nice and very comfy. I even got to talk to some of the people there and it was great . The teachers were great and their classes were so fun. Even the people on the road were entertaining to me and made me laugh. The school also seemed very diverse, there was a bunch of black, white, and Asians in a group together. The Asian club also had some black people i know so surprising",
+        "Author": "Niche User",
+        "Date": "2017-11-29T01:05:57.455537Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "The campus is great, the staff/professors are excellent. Amazing place to gain STEM skills and research. Only con is the area is quite crowded.",
+        "Author": "Niche User",
+        "Date": "2017-10-16T12:51:23.073385Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "What I love about MIT is how it is a microcosm of the world where everyone is judged primarily by merit. For students who come from a relatively poor background like me, it's great to see a school where you can't easily pay your way in.",
+        "Author": "Alum",
+        "Date": "2017-08-09T23:25:29.163935Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT is a great place to be. Its environment fosters innovation, creativity, and curiosity. Not only is the faculty and education world-class, but being with the best peers pushes one to be better. The quirky culture is also nice; one will certainly find his place in this great community.",
+        "Author": "Niche User",
+        "Date": "2017-05-22T03:33:11.725766Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "It has alot of facilities and there's all the required tools to make an idea come true And it's simply the best college in it's field that any hard working student want to Study in it .",
+        "Author": "Niche User",
+        "Date": "2017-03-16T17:44:17.441856Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT will challenge you in ways that you have never been challenged before, in its effort to mold you into the future leaders of tomorrow and helping you discover your true potentials. It may be a difficult journey, but it'll be worth it at the end.",
+        "Author": "Freshman",
+        "Date": "2017-03-11T16:10:48.040663Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Great school. Great people. Great city. \nI wouldn't want to be anywhere else. Boston is one of the greatest cities to live in and MIT is the school to go to for top education where you will be challenged.",
+        "Author": "Sophomore",
+        "Date": "2016-12-30T04:52:42.630228Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I have never been to a place that I have simultaneously loved and hated as much as MIT. I have been challenged in every way, and it has made a stronger person coming out of the other side. I have made some of the best friends here and met some of the smartest and most interesting people as well. Coming out of sophomore year I had never felt more inadequate, I was a B-C student for the first time in my life, failed a class, and got rejected from a dozen companies. When I finally landed an internship I went in expecting to be woefully unprepared based on my class performance. That's when I realized that struggling at MIT was flying anywhere else. The real workforce felt so easy and I barely felt challenged even as I got assigned to more and more projects. MIT's the first place that made me feel stupid, but it also made me realize that comparing myself to others is a terrible way to measure success and that I needed to be the best I could be (which compared to the rest of the world was pretty good.) In short. IHTFP (both meanings).",
+        "Author": "College Junior",
+        "Date": "2016-09-25T23:57:10Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "By far, the best school in the nation, and the world, not just for engineering, but for business, architecture, economics. MIT graduates go onto shape the world in ways never thought possible.",
+        "Author": "Recent Alumnus",
+        "Date": "2016-08-29T13:31:47Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Ranked the best University in the World for the last six years running",
+        "Author": "Recent Alumnus",
+        "Date": "2016-08-10T18:04:38Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Classes are difficult but you get a lot out of them. Class sizes are good. Variety very good.",
+        "Author": "College Sophomore",
+        "Date": "2016-08-03T17:15:51Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "My school is extremely challenging, and really pushes you to your limits. However, the people there make it worth the hard work and help you along the way, allowing for a really rewarding experience. If I had to choose all over again, I would still stand by my choice and pick my school.",
+        "Author": "College Sophomore",
+        "Date": "2016-08-03T16:51:34Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "I am very happy so far.",
+        "Author": "College Freshman",
+        "Date": "2016-07-19T20:18:42Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I love the atmosphere of creative and super-smart students.",
+        "Author": "College Freshman",
+        "Date": "2016-07-19T20:08:43Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Professors are very willing to listen and help students learn - individual quirks/administrative proficiency are the only problems.",
+        "Author": "College Sophomore",
+        "Date": "2016-07-10T19:52:43Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "As a humanities and science major, my academic experience at MIT isn't the most usual. The academic environment tends to undervalue these fields, but the people in them, especially in SHASS (School of Humanities, Arts, and Social Sciences) really care about their fields. The main thing I'd change about MIT, and have been trying to change for the past 3 years, is out culture around suffering. Many students wear their suffering as a badge of pride and vie to work the most, sleep the least, and be most 'hosed,' from firehose. We devalue mental health and self-care, and students often think others will look down on them for asking for help. Those facets of MIT need to change, but I've seen people at the Institute who care and are working on this, so I have very much hope for the future of my school.",
+        "Author": "College Senior",
+        "Date": "2016-06-24T00:37:08Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "The opportunities to get involved in innovative projects and work with outstanding professionals.",
+        "Author": "College Junior",
+        "Date": "2016-06-23T22:10:20Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "I've had some pretty bad lecturers in classes that would have been manageable if taught correctly. The fact that someone is knowledgeable does not make them a decent teacher. I have also had amazing teachers who made my learning experience exciting and positive, despite difficult coursework.",
+        "Author": "College Junior",
+        "Date": "2016-06-17T05:04:55Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I think what makes the experience so amazing is having the opportunity to meet people with brilliant minds and passionate, caring hearts.",
+        "Author": "College Junior",
+        "Date": "2016-06-17T04:47:07Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "MIT has top-notch academics. Some professors aren't great lecturers though.",
+        "Author": "College Junior",
+        "Date": "2016-06-06T02:56:41Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Professors are in general helpful and approachable. Courses are insightful.",
+        "Author": "College Sophomore",
+        "Date": "2016-06-03T21:58:39Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "MIT is a really cool place where you have the opportunity to explore whatever interests you and your explorations are supported.",
+        "Author": "College Sophomore",
+        "Date": "2016-06-03T21:49:17Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT is awesome and fun",
+        "Author": "College Sophomore",
+        "Date": "2016-03-30T00:18:59Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "It's a lot of fun and the classes are super interesting. The work is hard, but there are tons of people willing to help, and if you are comfortable with not having a perfect A+ average than going out every weekend and some week nights is definitely do-able.",
+        "Author": "College Sophomore",
+        "Date": "2016-03-30T00:05:28Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I've had a good time so far.",
+        "Author": "College Freshman",
+        "Date": "2016-02-02T00:24:39Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I absolutely love my school and I wouldn't change it at all! It's probably the most stressful, hard, and demanding thing I've done up to now but that's what I love about it! It's a challenge and it really is intense but the people I've met, my friends, help me through it all and I love that! The community at MIT is amazing too, there are so many different people on campus both mainstream and off-stream(I guess that's how you say it?) but that makes everyday much better in an open and accepting campus.",
+        "Author": "College Freshman",
+        "Date": "2016-01-20T09:14:15Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I absolutely love attending MIT.  I know that my experience will be tougher as the years go by, but I have made amazing friends that I know will stick around for it all.  The courses are hard, and psets are crazy challenging, but it all promotes teamwork and creative thinking.  I look forward to learning more and meeting more people.",
+        "Author": "College Freshman",
+        "Date": "2016-01-16T13:09:39Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Although I am only a freshman, I truly love it here.  The course load is heavy, but there are amazing people here that are always willing to help, which lightens some of the load.  I love the classes I have taken so far, and they are all very engaging.  The people here are what makes me love MIT the best.  They make the campus feel like home.",
+        "Author": "College Freshman",
+        "Date": "2016-01-16T12:54:47Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I love MIT's culture as well as the academics. It's right next to Boston and is easily accessible. The culture is full of different types of people and there is a right fit for everyone.",
+        "Author": "College Freshman",
+        "Date": "2016-01-01T16:23:07Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "This place offers a great community of profs, grad students, and undergrads who all want to learn new things and change the world.",
+        "Author": "College Senior",
+        "Date": "2015-12-31T03:11:33Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Although it is a challenging place to be, I have found a home at MIT with crazy-smart, caring people who all want to change the world. I think the thing that best characterizes MIT students is the desire to do something great, something beyond the ordinary. It is an extraordinary place to be.",
+        "Author": "College Senior",
+        "Date": "2015-12-31T03:02:34Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "A lot of the overall experience at MIT depends on how much you make of it. If you are willing to put yourself forward, push yourself, join new activities, talk to the cute guy you're shy around, etc. as in any other college/work environment, then you will be successful.",
+        "Author": "College Freshman",
+        "Date": "2015-12-29T19:42:43Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "What makes MIT unique is that every single person is interesting to get to know.",
+        "Author": "College Freshman",
+        "Date": "2015-12-29T19:32:49Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "The professors are challenging and passionate. It is the ideal place to come to be challenged and grow as a learner.",
+        "Author": "College Freshman",
+        "Date": "2015-12-29T16:56:20Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "It has been great so far, the academics are near perfect. The only downside is the workload, the cost of attending, and living on your own in an expensive city.",
+        "Author": "College Freshman",
+        "Date": "2015-12-29T16:39:53Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "I hate the weather. Snow sucks.",
+        "Author": "College Sophomore",
+        "Date": "2015-12-29T16:34:34Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "There's a lot of variety, but it's up to you to take advantage of it.",
+        "Author": "College Freshman",
+        "Date": "2015-12-24T01:56:11Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "MIT is a great place when it comes to interdisciplinary studies. I didn't really know what I wanted to do, since I just wanted to do a lot of things, but the collaborative spirit all around campus and especially in the Media Lab eventually led me to realize I could do a lot of it.\r\n\r\nThe people are wonderful and probably what makes MIT so unique. Everyone wants to learn or advance their fields, both professors and students. There are few who are complacent, which is mostly a great thing.",
+        "Author": "College Freshman",
+        "Date": "2015-12-24T01:35:22Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I love all the talented and smart people there.",
+        "Author": "College Sophomore",
+        "Date": "2015-08-25T00:05:20Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "It is totally challenging but the opportunities are great!!!",
+        "Author": "College Sophomore",
+        "Date": "2015-08-23T06:04:48Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I couldn't be happier anywhere else.",
+        "Author": "College Sophomore",
+        "Date": "2015-08-20T20:04:24Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Everyone around me is passionate about some topic. It's inspiring to see what my classmates are up to, whether it's research or startups or personal projects. The atmosphere can be stressful, but the community is incredibly supportive if you reach out for help.",
+        "Author": "College Junior",
+        "Date": "2015-08-19T22:41:16Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "The classes are pretty difficult the students at MIT are generally nice people and like to help others out if they're struggling.",
+        "Author": "College Sophomore",
+        "Date": "2015-07-26T21:38:35Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Sometimes the environment makes it difficult to work at my own place. I put unnecessary pressure on myself when I first arrived, which made my first year difficult. After I discarded that, however, I began succeeding in the way i wanted to. I've met some really incredible people so there's never a dull moment, unless it's by choice. Very challenging, but very worth all of the struggle.",
+        "Author": "College Junior",
+        "Date": "2015-07-24T01:54:19Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "The classes may be difficult and the atmosphere may be intense, but the people at my school are great. They make up for any downside caused by the intense academic environment and more.",
+        "Author": "College Freshman",
+        "Date": "2015-07-07T19:57:12Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I love the people at MIT and the classes are very difficult but interesting",
+        "Author": "College Sophomore",
+        "Date": "2015-07-04T15:57:46Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Students are nice. General community is fun. The place is quite stressful, though.",
+        "Author": "College Sophomore",
+        "Date": "2015-07-01T16:19:30Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I've enjoyed all the classes I've taken (even though they can be tiring), and I think the students here are some of the friendliest I've ever met.",
+        "Author": "College Sophomore",
+        "Date": "2015-06-23T18:53:48Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "This place is amazing. You can see and do fantastic things here. This place is not for everyone. There is a lot of work and many things you will never understand. I have learned and grown more than I thought possible and I still have more time here. But, you also loose part of yourself here. Once you become ok with that, you realize you can make though this place and have great memories on the other side. IHTFP",
+        "Author": "College Sophomore",
+        "Date": "2015-06-18T15:13:02Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "MIT is an amazing school with lots of incredible opportunities that are within grasp of a motivated student. The people are all very friendly and open but also super hardworking. It is a place that fosters innovation and development but can be a little too much to handle at times. Often compared to drinking from a firehose, an MIT education is definitely an experience in itself.",
+        "Author": "College Junior",
+        "Date": "2014-08-03T13:04:29Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "IHTFP.  MIT has been a great ride.  Might not be for everyone, but, I love it.",
+        "Author": "College Senior",
+        "Date": "2014-06-23T21:18:05Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "At MIT, we refer to our majors by their course numbers (and subnumbers/letters, when applicable). I was a linguistics major in the Linguistics and Philosophy department, so I was Course 24-2. Our program rocks 'cause MIT, unbeknownst to many, is one of the best institutions for theoretical linguistics. (We have the grandfather of modern linguistics, Noam Chomsky, and many other fine linguists such as David Pesetsky, Irene Heim, Martin Hackl, Norvin Richards, and Kenneth Wexler, just to name a few). Unfortunately, the program is very small (as is the graduate program) and does not get as much attention as it should, both from the students and the faculty. The graduate program is extremely renowned and highly competitive. But, back to the undergraduate program, yes, it is small. In fact, my graduating class probably only had around 5-7 (out of a class of around 1000) doing linguistics (or philosophy, both are in the same department) as their primary major. As such, I went through classes without meeting some of these kids. And contrary to the norm at MIT, which is built on collaboration, I'd often have to do my psets (problem sets = homework) alone since very few people were taking my classes.",
+        "Author": "Recent Alumnus",
+        "Date": "2014-05-27T14:26:53Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT has been the perfect fit for me. It's the perfect combination of an academic and social environment.",
+        "Author": "College Freshman",
+        "Date": "2014-01-08T13:38:48Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I really love the atmosphere and all the people here.",
+        "Author": "College Freshman",
+        "Date": "2013-12-27T12:24:52Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Love MIT!!! Amazing opportunities, really smart and kind classmates",
+        "Author": "Recent Alumnus",
+        "Date": "2013-11-27T22:57:25Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Being a freshman I have no idea what the program looks like as I havent taken any classes for it yet.",
+        "Author": "College Freshman",
+        "Date": "2013-11-24T19:21:45Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "It definitely is one of the most challenging schools out there, but with amazing people around you, it gets better. The social scene is not very vibrant however, and it is not uncommon to ditch plans to study.",
+        "Author": "College Freshman",
+        "Date": "2013-11-24T19:17:49Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "The workload is unreal. Hell weeks with three or four tests come every month and if you're up at 4am it's usually because you're finishing a problem set instead of drinking and partying or hanging out with friends. But the people are incredible at MIT. They are fun and interesting and diverse, and they have these amazing ideas that they are really excited to implement during, or after, their time at MIT. You never know what to do with free time because you never have any, but you leave MIT prepared for absolutely anything, and with friends you would never have met anywhere else.",
+        "Author": "College Sophomore",
+        "Date": "2013-11-12T15:45:09Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "My existence at MIT has been almost constant stress.  A relentless workload,  grades that don't reflect the amount of effort I put into studying, and brutal weather for about 3/4 of the year.  However, this environment also fosters the development of amazing friendships.  MIT is like no other place in the world and you need to find a close group of friends, with diverse backgrounds, in order to make it through.  We struggle together and help one another through the hard times, but also celebrate and have fun together.  \r\n\r\nAdditionally, the professors at MIT, for the most part, truly care about their students and go out of the way to get to know them and assist them.  Once you get into your major classes, the class sizes are small and become close-knit, not only with the other students, but also with the professors.\r\n\r\nMIT Greek life is extremely different than any other Greek life I've experienced.  Almost half the campus is Greek.  But it is not full of drama but developing a support network to get through MIT.\r\n\r\nThe students at MIT feel free to let themselves shine.  Although they are swamped with work, they still find time to devote hours to dancing, to varsity sports, to building roller coasters in front of their dorms, to helping their community, and to hacking.  The students are incredibly well-rounded and, surprisingly, not very competitive.  They tend to strive to be their personal bests instead of competing with others.",
+        "Author": "College Junior",
+        "Date": "2012-08-01T06:32:11.547Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "MIT is my favorite place in the whole wide world. Even though the work load can be very intense at times, if you balance it with fun times with friends on the weekends or even taking a day off during the school week, it makes the work manageable. MIT has good parties yet no one here forces anyone to partake in drinking or drugs. The people here are some of the most down-to-earth individuals in the world yet they are some of the most brilliant. I cannot believe how lucky I am to be surrounded by such high-acheiving yet humble people. MIT is definitely a place to be proud of.",
+        "Author": "College Sophomore",
+        "Date": "2012-07-10T12:53:14.08Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "A Challenge and Opportunity for Growth – The greatest thing about MIT is the people. The students here are amazing - everyone has a unique talent/passion, everyone is hardworking, and people are (mostly) down-to-earth.\r\n\r\nYes, the academics are extremely hard. Even those who were straight-A students back in HS come here and will suffer their first C. My first year here, my self-esteem was crushed. But I also made my most amazing friends here, who helped me get through those rough times. Challenges are opportunities for growth. Adversity strengthens bonds. Coming to MIT made me realize that.\r\n\r\nIf you want a challenge, and are prepared to stretch yourself to your limits, you'll thrive here. Just remember the importance of friends and knowing when to seek support. It's always there for you.",
+        "Author": "College Freshman",
+        "Date": "2012-05-30T22:38:55.28Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Community Is the Best Part – The best thing about MIT is the people. The classes are hard, there are lots of annoying requirements to fulfill, but the community makes up for it. There are so many different types of people and everyone is so accepting and interesting.",
+        "Author": "College Junior",
+        "Date": "2012-01-19T16:05:58.6Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Wouldn't Have It Any Other Way – I've had a total blast my first year at MIT! It felt overwhelming at first, but it's a great place to be. There are a lot of friendly people willing to help you out with anything, it's easy to get around, there's always something going on that you can get involved in, and not to mention there's all the other colleges in the area with people to interact with and things you can be involved in there too if you want. The workload is hard, some days it feels like the workload is just crushing. But, if you can keep your head up and work through it and get help when you need, it is quite an awesome experience. If I had to pick colleges again, I would still choose to come to MIT.",
+        "Author": "College Sophomore",
+        "Date": "2011-07-25T01:29:49.703Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "It's unlike most top tier schools. Less stuck-up people and more fun and chill ones to hang out with. We work hard, but party just as hard. At first, it may be hard to find that balance, but you will quickly enough.",
+        "Author": "College Freshman",
+        "Date": "2010-12-28T20:35:07.493Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Challenging Yet Rewarding – If you are ready for a challenge academically, but still want to have a good college experience, this is the perfect place.  You will meet some the most amazing people and learn so much over your years here.  You can play sports, be in a sorority or fraternity, and do well in school and have a life if you budget your time well enough.  It was the perfect place for me.",
+        "Author": "College Sophomore",
+        "Date": "2010-07-21T15:57:15.16Z"
+    }
+]

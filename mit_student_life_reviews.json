@@ -1,0 +1,848 @@
+[
+    {
+        "Rating": 4,
+        "Review": "26 fraternities, so there's one for everyone. Being in a fraternity isn't hard, but the top fraternities are as good as they come. Very nice houses in great locations in Boston and Cambridge. Chi Phi, Sigma Chi, and Delta Kappa Epsilon throw some of the best parties in Boston, each with their own unique vibe.",
+        "Author": "College Junior",
+        "Date": "2016-09-26T00:01:24Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "I am a member of a varsity athletic team here, and while attendance isn't great for our events that doesn't mean we don't win games and have an awesome team. My best friends are on my team.",
+        "Author": "College Junior",
+        "Date": "2016-09-25T23:59:41Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "To an outsider or non-Greek person, fraternities and sororities are just kind of there, they throw parties, some philanthropy events, and occasionally do stupid things. What's not easily seen is how much infighting there is in every fraternity. Pointless conflicts and cliques arise, and it definitely gets exhausting to put up with all the drama of being part of Greek life.",
+        "Author": "Recent Alumnus",
+        "Date": "2016-08-29T13:38:06Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Most people don't come to MIT for sports, at least not the typical \"American\" sports like football, baseball, etc. But the athletes here work just as hard and competition is tough.  We recently claimed the Division III championship in football, and the students were pretty proud of our team for that.",
+        "Author": "Recent Alumnus",
+        "Date": "2016-08-29T13:34:46Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "People like the Greek life here, it's pretty chill and no one judges you if you are or aren't part of it yourself.",
+        "Author": "College Sophomore",
+        "Date": "2016-08-03T17:00:10Z"
+    },
+    {
+        "Rating": 2,
+        "Review": "Though many do participate in sports, it isn't very important in our school's culture as academics always comes first.",
+        "Author": "College Sophomore",
+        "Date": "2016-08-03T16:57:45Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "This is a tolerant community so Greek or non-Greek doesn't matter.",
+        "Author": "College Freshman",
+        "Date": "2016-07-19T20:11:35Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "I love the swimming requirement, and the physical education facilities are great.",
+        "Author": "College Freshman",
+        "Date": "2016-07-19T20:10:48Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Greek life at MIT gives you amazing opportunity to grow, learn, and have fun. It's pretty much a perfect balance of helping the community and the occasional scandal.",
+        "Author": "College Junior",
+        "Date": "2016-06-17T04:52:46Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "For being a D3 school, we have fairly nice facilities. Our gym for the general student body is nicer than the one designated for varsity athletes. Our fields, particularly baseball, softball, and football, could really use an upgrade and it would be cool if more people attended our games, but you can't really expect more from students who are so busy with school and their own extracurriculars. Outside of attendance, people show amazing amounts of support over social media.",
+        "Author": "College Junior",
+        "Date": "2016-06-17T04:51:12Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "I'm not into Greek life, because the fees are so big",
+        "Author": "College Junior",
+        "Date": "2016-06-06T02:49:32Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "I'm a Varsity Athlete and I love my coaches and team!",
+        "Author": "College Junior",
+        "Date": "2016-06-06T02:48:33Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "FSILGs are a huge part of MIT, each with their own unique atmosphere and culture.",
+        "Author": "College Sophomore",
+        "Date": "2016-06-03T21:52:15Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Athletics can be pretty big when teams are doing well, almost everyone knows an athlete and many go to games and events to support friends.",
+        "Author": "College Sophomore",
+        "Date": "2016-06-03T21:51:33Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "It's not super fratty, but it's a lot of fun. Being in Boston is great and my fraternity mixes with sororities in schools all over Boston. Even many of the people not technically in Greek life end up in dorms or dorms floors that are ultimately very similar to joining a fraternity.",
+        "Author": "College Sophomore",
+        "Date": "2016-03-30T00:10:39Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "A ton of people participate, but no one really watches.",
+        "Author": "College Sophomore",
+        "Date": "2016-03-30T00:07:54Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I never meant to join greek life, but have found it refreshing after growing up in the south. It's very widely varied and provides great support networks for a lot of undergraduates.",
+        "Author": "College Sophomore",
+        "Date": "2016-02-22T21:51:03Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Sports and Athletics are not a focus here but students are extremely passionate about them as well.",
+        "Author": "College Freshman",
+        "Date": "2016-02-01T22:44:11Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "They have tons of athletic facilities that students, clubs, and athletes can all use for recreation and training! I think it's more than enough for the demand.",
+        "Author": "College Freshman",
+        "Date": "2016-01-20T09:17:40Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Greek life is surprisingly big on MIT campus for the guys.  The frats really put in a lot of time for their brothers and people they know, helping with homework and providing study breaks for fun.  Sorority life, on the other hand, seems pretty big due to the amount of girls in the sororities, but they do not play as much of a big impact as the fraternities.  There is not a big difference in Greeks and non-Greeks.",
+        "Author": "College Freshman",
+        "Date": "2016-01-16T12:58:24Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Athletics is not a priority at MIT, so most of the students don't pay attention to them.  However, there is a lot of school spirit for big events.  Many students are involved in sports whether they are in club sports or varsity sports.",
+        "Author": "College Freshman",
+        "Date": "2016-01-16T12:56:17Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I love the greek life. Almost all of the parties at MIT are held by the fraternities in their houses. Students from other schools also enjoy attending them. Sororities also host a lot of fun fundraisers and charity events attended by students as well. There isn't a divide between Greeks and non-Greeks, they coexist very peacefully. All of the Greek organizations have houses, many of which are off campus in Boston.",
+        "Author": "College Freshman",
+        "Date": "2016-01-01T16:28:45Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Most sports are division 3, and MIT doesn't have the best teams sometimes so it's not too interesting to watch. Some games are good though and very fun to attend. The school spirit is not there. The school athletic center is very nice and open students but the football field leaves much to be desired.",
+        "Author": "College Freshman",
+        "Date": "2016-01-01T16:25:49Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "If you want Greek life, it's there. If you don't, it's not a big deal. About 1/2 of guys on campus are in fraternities and 1/3 of girls.",
+        "Author": "College Senior",
+        "Date": "2015-12-31T03:04:46Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "We have decent varsity teams for our D3 league. And out club sports are really fun.",
+        "Author": "College Senior",
+        "Date": "2015-12-31T03:03:30Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "The Greek life you choose at MIT is largely dependent on the community you join. Most fraternities however are not the stereotypical kind of hardcore party-goers.",
+        "Author": "College Freshman",
+        "Date": "2015-12-29T19:34:49Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Athletics are not the main focus of MIT. However, the PE requirement allows all students to become familiar with the equipment offered.",
+        "Author": "College Freshman",
+        "Date": "2015-12-29T19:33:50Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "I'm a non-Greek but most Greeks I know enjoy it and they do a lot of cool things",
+        "Author": "College Sophomore",
+        "Date": "2015-12-29T18:36:30Z"
+    },
+    {
+        "Rating": 2,
+        "Review": "People don't care enough to go to the sports games",
+        "Author": "College Sophomore",
+        "Date": "2015-12-29T18:33:15Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I am in a fraternity and the brothers have been great for academic and social support.",
+        "Author": "College Freshman",
+        "Date": "2015-12-29T16:43:12Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "They have the facilities for students to do nearly any exercise they want",
+        "Author": "College Freshman",
+        "Date": "2015-12-29T16:41:06Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "We're only D3, but our teams are pretty darn good!",
+        "Author": "College Sophomore",
+        "Date": "2015-12-29T16:37:09Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "The school forces you to take athletic courses, and there's a wide variety to choose from. Outside of class, each dorm has a gym (the quality varies) and the main gym, the Z-Center, is open most of the day. The Z-Center has a lot of equipment available to all students except when class or sports are in session in during the workday and from five to seven (even then, it's possible/likely that only a part of that area is in use, depending on what you want).",
+        "Author": "College Freshman",
+        "Date": "2015-12-24T01:38:54Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "They are great. I feel that they are very fair, understand that we are college kids, and create an awesome on campus atmosphere.",
+        "Author": "College Sophomore",
+        "Date": "2015-06-09T18:24:22Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Strictness depends on the thing that you're doing, but MIT generally would rather help you than hurt you, especially if the problem has to do with excessive drug or alcohol use. Dorm security has tightened lately so that's become a bit more strict and a bit of a nuisance as well.",
+        "Author": "College Junior",
+        "Date": "2015-05-25T06:55:04Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I mean, everyone is their own person and you're almost guaranteed to find someone interesting on campus, whether for friendship or relationship. We all have our own quirks and eccentricities but I think that's what makes us interesting.",
+        "Author": "College Junior",
+        "Date": "2015-05-25T06:51:23Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "They give the students a lot of freedom",
+        "Author": "College Freshman",
+        "Date": "2015-03-16T15:25:53Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Girls here (like all students) are smart, involved, and interesting.",
+        "Author": "College Freshman",
+        "Date": "2015-03-01T02:41:33Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT has an awesome athletics program.  Varsity sports are not a huge deal: I and most people I know have never been to a football game, but the diversity in sports and options available are awesome.  Almost all dorms have some form of gym, and the main gym is huge and very accessible.  The PE requirement encourages students to take fun courses that are never available at high school: such as pistols, archery, fencing, and sailing (the combination of which will earn you your 'pirates licence'.  I personally thought I would have no part in sports, but discovered the pistol team through a friend and fell in love with the program.  Top notch team (women's team won first place team in national collegiate competition in 2014), but relaxing, safe, and very focused on mental and wellness aspects of the sport.",
+        "Author": "College Freshman",
+        "Date": "2015-03-01T01:45:14Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Thankfully I  haven't had to have any run in with them",
+        "Author": "College Freshman",
+        "Date": "2015-01-12T15:39:53Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "I enjoy being able to go out and let loose and have fun at parties thrown by frats",
+        "Author": "College Freshman",
+        "Date": "2015-01-12T15:32:22Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "A lot of the frat guys think they are all that and so if you aren't, in their eyes, drop dead gorgeous they wont give you any type of attention, even if you are a cool person and the \"gorgeous\" girl is awful. I think it gets better as you get older though.",
+        "Author": "College Freshman",
+        "Date": "2015-01-12T15:29:25Z"
+    },
+    {
+        "Rating": 2,
+        "Review": "I wish athletics were a big part of MIT. We don't even have a real football stadium which is sad since I am from texas and football and marching bands are huge there.",
+        "Author": "College Freshman",
+        "Date": "2015-01-12T15:26:04Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "It's there, but I'm not a part of it so it doesn't affect my life that much.",
+        "Author": "College Junior",
+        "Date": "2014-12-16T13:53:49Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Greek life is the best because it is an incredibly laid back culture where anyone can find the right fraternity or sorority, or none at all, if that suits them. Greek non-Greek relations are excellent because of this laid back culture. Everyone is generally very accepting and the Fraternities tend to throw some of the best parties in the greater Boston area.",
+        "Author": "College Freshman",
+        "Date": "2014-11-19T13:59:46Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "As soon as you are a student here you are treated as an adult. This allows a ton of freedom, and the GRT's (MIT's version of RA's) are generally very laid back and are not looking to get you in trouble in any way. There is also a good neighbor policy transport system where you can call an alcohol transport if you fear for you or your friends safety and you will not get in any trouble (though you will most likely have to attend and alcohol edu class or something of the sort. On the other hand because you are treated like an adult you are expected to act like one for the most part, and multiple offenses can result in serious trouble.",
+        "Author": "College Freshman",
+        "Date": "2014-11-19T13:51:21Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Last I heard, more than have of the guys at MIT are in a frat. Most frat houses are in Boston. Sororities are not nearly as big. Non-Greeks and Greeks don't treat each other differently, but I can't help silently judging some of the party-hard Greeks.",
+        "Author": "College Sophomore",
+        "Date": "2014-11-13T14:11:53Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "I wish MIT had more school spirit when it came to varsity sports! A lot of people participate in sports, but not many students attend the games. I think the fitness center on campus is great though. It's awesome that we have an ice rink in the winter.",
+        "Author": "College Sophomore",
+        "Date": "2014-11-13T13:57:02Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Though student policies are in place (eg. no drinking in dorm common areas), nobody intrudes to ensure the policies are being followed. There is a general belief that students can make responsible decisions.",
+        "Author": "College Sophomore",
+        "Date": "2014-11-13T13:45:31Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "There are a lot of extremely good-looking people here, which actually surprised me.",
+        "Author": "College Freshman",
+        "Date": "2014-10-19T16:21:15Z"
+    },
+    {
+        "Rating": 2,
+        "Review": "Very few people go to varsity games. Many of friends did not even know MIT had a football team.",
+        "Author": "College Sophomore",
+        "Date": "2014-09-25T15:31:57Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "They seem to crack down at random tim",
+        "Author": "College Sophomore",
+        "Date": "2014-09-25T15:30:56Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "The athletic facilities are quite wonderful and there's clubs for basically every kind of athletic activity.",
+        "Author": "College Junior",
+        "Date": "2014-09-24T03:21:36Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Basically all the Greek groups have their own houses, and there's a ton of different ones so you get your pick in style and culture. Some lean more toward the hardcore parties and some are a lot tamer.",
+        "Author": "College Junior",
+        "Date": "2014-09-24T03:12:34Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "I am not involved in athletics.",
+        "Author": "College Junior",
+        "Date": "2014-08-25T12:57:12Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Security has recently been increased as a result of several dorm robberies.",
+        "Author": "College Junior",
+        "Date": "2014-08-25T12:55:36Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Lots of people are in fraternities and sororities.",
+        "Author": "College Junior",
+        "Date": "2014-08-25T12:53:39Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Very lenient policies on visitation and alcohol use. The police are trusting of students.",
+        "Author": "College Sophomore",
+        "Date": "2014-08-21T20:50:05Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "People who attend sporting events are usually just friends of varsity athletes.",
+        "Author": "College Sophomore",
+        "Date": "2014-08-21T20:48:47Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Our campus is not very strict. They generally treat us like adults and allow us to decide what's best for us.",
+        "Author": "College Senior",
+        "Date": "2014-08-14T21:59:36Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT is very diverse. I know people of all ethnic, economic, religious, sexual, and political backgrounds, though we are probably more liberal than your average college.",
+        "Author": "College Senior",
+        "Date": "2014-08-14T21:42:27Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Greek life at MIT is fantastic. It's a positive aspect of the community in many ways, and many students choose to participate in Greek life (supporting Greek events) even if they are not actually Greek.",
+        "Author": "College Senior",
+        "Date": "2014-08-14T21:41:30Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT is filled with students from all over the world and from all walks of life. I have always found it to be an extremely open community in terms of receptiveness to opposing views and types of people. I feel like everyone can find their place at MIT.",
+        "Author": "College Junior",
+        "Date": "2014-08-03T12:56:57Z"
+    },
+    {
+        "Rating": 2,
+        "Review": "I feel like the sports teams actually do well, but the problem is that there isn't much school spirit. The fact that I don't even really know how the teams are doing is a testament to this statement.",
+        "Author": "College Junior",
+        "Date": "2014-08-03T12:49:57Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "As with any school, there are attractive people and not so attractive people, people who like to party and people who have never gone out a day in their lives. However, what I will say is that due to the amount of work that MIT brings, it is often hard to find stable relationships. There's just not enough time.",
+        "Author": "College Junior",
+        "Date": "2014-08-03T12:47:26Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "50% of the men are involved in Greek life - it's so huge, it's almost not a big deal anymore.",
+        "Author": "College Senior",
+        "Date": "2014-06-23T21:20:16Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT trusts the students to know what's best.  Changing slightly in recent years.",
+        "Author": "College Senior",
+        "Date": "2014-06-23T21:18:51Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "MIT has fantastic student participation in athletics.",
+        "Author": "College Senior",
+        "Date": "2014-06-23T21:14:01Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "The Greeks here are great.",
+        "Author": "College Freshman",
+        "Date": "2014-06-07T15:39:24Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "I was in a fraternity and I personally thought our chapter house was dirty (compared to my dorm), but apparently this is not the case. Girls would come by and say that ours (meaning ours and MIT frats in general) were much cleaner than fraternities elsewhere, e.g. BU. Anyway, there are MANY fraternities, numbering around 25-30, I think. As such, fraternities consist of anywhere between 20 to 50 brothers, it depends. Sororities are few, I think just 6 or so, and their membership is much higher, numbering around a hundred each. I recall people saying that half the people at MIT are Greek, but that's probably not true. Perhaps the figure is more around 30%, but there are a lot of affiliated people. Greek life at MIT is not 100% like what you see in the media. Yes, brotherhood, sisterhood, pledging, parties, etc. It's all there, but I'd say it's very toned down compared to what you'd see in say the movie, Neighbors (2014). Greeks are like any other students, honestly. I don't think we saw non-Greeks as that much different from Greeks, nor vice-versa. It's all about support networks anyway. Some people have fraternities, some have dorms, some have their extracurriculars or sports. Most, if not all Greek societies have their own chapter house where many of their members live (except the sororities, whose houses could not possibly accommodate all of their members). Greek life is a big part of the MIT atmosphere. Frats hold parties, and everyone holds some sort of philanthropy event. You will notice the Greek presence, it's impossible not to.",
+        "Author": "Recent Alumnus",
+        "Date": "2014-05-27T14:50:18Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Rich kids, poor kids, you name it. They're all here. In terms of ethnicity, there are mostly white kids and Asian kids, but there's  a good number of other ethnicities as well. Overall, it's very diverse here. There are international students, many from Asian countries, some from African countries, some from Canada (haha). I never ran into many Europeans, though, but I know they exist. There are also people from South America, presumably. Politics, most I think are liberal, though you will find conservatives. Religion varies and as well as sexual orientation. Overall, the MIT community is just one big rainbow. I probably never once thought about diversity as something to be talked about 'cause it seemed to be the norm here.",
+        "Author": "Recent Alumnus",
+        "Date": "2014-05-27T14:13:41Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Aside from one page in the Tech (our newspaper), most people don't talk about our varsity sports unless they know someone who is a varsity athlete. Intramural sports exist, but those are not talked about much. Of course, we're proud of our Engineers when we actually do well. I wasn't a big exercise or sports person, but I had the impression that our facilities were top-notch, including a swimming pool, archery equipment, dance studios, as well as the massive Z-center.",
+        "Author": "Recent Alumnus",
+        "Date": "2014-05-27T13:58:55Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Campus is not strict at all.  If they catch you hacking it'll be bad but not that bad.",
+        "Author": "College Freshman",
+        "Date": "2014-05-02T19:42:21Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Fraternities on campus define the social scene on weekends.",
+        "Author": "College Freshman",
+        "Date": "2014-05-02T19:35:53Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Great facilities for both athletes and non athletes.",
+        "Author": "College Freshman",
+        "Date": "2014-03-26T01:22:06Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "The school respects the students privacy but also tries to ensure their safety.",
+        "Author": "College Freshman",
+        "Date": "2014-03-26T01:14:15Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Greek life doesn't really affect the social atmosphere on campus.",
+        "Author": "College Freshman",
+        "Date": "2014-03-26T00:48:30Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Very lenient. The administration lets us do what we want, as long as we are safe about it.",
+        "Author": "College Freshman",
+        "Date": "2014-01-21T18:30:22Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I'm involved with Greek life on campus as I'm part of a sorority. Many men are also part of fraternities. Greek life plays a huge role in the party scene as well as the social scene. However, there are many people not involved in Greek life that still are a large part of the social scene. Other living groups and dorms also throw parties. Also, Greek parties are usually not limited to Greek people.",
+        "Author": "College Freshman",
+        "Date": "2014-01-08T15:51:13Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "I've enjoyed the diversity on campus as I come from a very homogeneous background. Everyone comes from very different places with very different beliefs. MIT is also accepting to how anyone identifies in terms of race, ethnicity, religion, and sexual orientation.",
+        "Author": "College Freshman",
+        "Date": "2014-01-08T15:41:28Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Most dorms at MIT assume you're adults and that you can conduct yourself. However, visitors must sign in and, if not on guest list, get picked up by their host.",
+        "Author": "College Freshman",
+        "Date": "2014-01-08T13:38:13Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "I have not run into any issues regarding diversity personally, but there are people on campus who constantly push for more recognition of diversity, so I have to assume that there are still problems.",
+        "Author": "College Freshman",
+        "Date": "2014-01-06T22:53:27Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "People have a mild interest in athletics, but mostly it's overshadowed by classes.",
+        "Author": "College Freshman",
+        "Date": "2013-12-27T12:25:42Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "The campus is quite diverse, you can meet all sorts of people.",
+        "Author": "College Freshman",
+        "Date": "2013-12-27T12:22:38Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Fraternities are generally more prevalent than sororities.  The fraternities often hold mixers or parties with sororities from Boston University, because there are more sororities there.",
+        "Author": "College Sophomore",
+        "Date": "2013-12-10T22:09:15Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Administrators and campus police are very nice.  As long as everything is done in moderation and doesn't pose any health or safety threat, they're cool.",
+        "Author": "College Sophomore",
+        "Date": "2013-12-10T22:06:47Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "The officers are very understanding, very nice, and will not bust parties unless they have already given out multiple warnings",
+        "Author": "College Freshman",
+        "Date": "2013-11-24T19:22:23Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "MIT admissions spends a lot of effort on getting a very diverse student body, and they do a good job overall. There is a wide range of students from different backgrounds, some from well off prep schools and others who had to raise their other siblings.",
+        "Author": "College Freshman",
+        "Date": "2013-11-24T19:19:02Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "MIT students are decently good looking, and smart and interesting as hell. They don't dress particularly well - half the year is brutally cold winter weather, so jeans and Northface coats are in heavy circulation most of the year. The 'work hard play hard' culture makes it difficult to have any type of casual relationships. Hookups and serious relationships are generally the only two options.",
+        "Author": "College Sophomore",
+        "Date": "2013-11-12T15:49:04Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "If you know someone on a varsity team, you will probably go support them at a couple of games/meets during the year. Otherwise sports are beneath the typical student's radar.",
+        "Author": "College Sophomore",
+        "Date": "2013-11-12T15:33:59Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "In terms of partying, campus is pretty lenient. Most everyone can drink in their dorms - in some you can drink out in lounges if your living group is cool with it, but everywhere you can have a small party in your room and it's fine. \r\n\r\nAcademically, attendance is rarely mandatory (except in humanities classes), it just helps boost your grade if you are on the border at the end of the semester. You're pretty much free to do what you like academically as long as you turn in your work and do well on tests.",
+        "Author": "College Sophomore",
+        "Date": "2013-11-12T15:33:08Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "The best part about MIT is the people. I have never met more interesting, intelligent individuals in my life. They come from all walks of life, and a look around campus will disprove the nerd stereotype (though we are all nerds at heart). You have guys and girls with rainbow colored hair who walk around barefoot. You have your not-so-typical jocks, and preps, and hipsters. But even when you think you have someone figured out, they always surprise you. Individuals, therefore, get an A+\r\n\r\nAs far as social life and relationships goes, you run into some road bumps and blocks. People are tend to hang out with a particular friend group after freshman year, making it difficult to branch out and socialize. Additionally, there is no dating culture. You are either in a serious relationship or just hooking-up (which kind of sucks). Plus it can get kind of awkward your senior year when you know everyone and have weeded out all the eligible options",
+        "Author": "College Senior",
+        "Date": "2013-08-21T12:18:52.097Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT is very diverse in religion, political beliefs, sexual orientation, and ethnicity/race. People come from all over the world and bring their culture with them. As whole, MIT is accepting and there isn't really any \"normal\" so to speak.",
+        "Author": "College Sophomore",
+        "Date": "2013-06-10T14:11:08.86Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Theres so much diversity that that there is no normal.  Everyone is unique.",
+        "Author": "College Sophomore",
+        "Date": "2013-06-09T09:48:42.113Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "We have good athletics programs but certainly aren't world-renowned for most teams. At MIT, students are very much student-athletes, so academics almost always take precedence over athletics. That being said, the administration/faculty try to accommodate athletes as much as possible.",
+        "Author": "College Freshman",
+        "Date": "2013-05-15T13:39:14.28Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "In fact, many of my friends are from different countries. Being at MIT instilled a new respect for international students, because they are very intelligent and very fun to be around.",
+        "Author": "College Freshman",
+        "Date": "2013-03-10T16:24:18.84Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "There are a lot of extracurricular activities- there is a Greek mythology club. At our graduate housing, there is even a Grekk cuisine club- overall diversity is a BIG reason why I chose this school.",
+        "Author": "Recent Alumnus",
+        "Date": "2013-02-24T15:59:52.513Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Frat life at MIT is amazing. almost 60% of guys join one, and they have a really good sense of community. They are pretty much the entire social scene at MIT for freshmen/sophomore years, then people start going to bars.",
+        "Author": "College Sophomore",
+        "Date": "2013-01-27T14:21:54.437Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "MIT is pretty relaxed about its students drinking. They have a good samaritan policy which means that if you call for an alcohol transport for one of your friends, you can't get in trouble for it, even if you were drinking too. They just want people to be safe and willing to call.",
+        "Author": "College Sophomore",
+        "Date": "2013-01-27T14:20:03.783Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Greek life is a very strong part of MIT culture, with 50% of undergraduate males across 27 fraternities. There are only 6 Sororities, but any girl who wants to be recruited can be. Rush is one of the most exciting parts of the year, and any given weekend has at least two or three parties going on. Many people have friends across multiple houses, and non-Greek and Greek relations are incredibly good; an example all other schools should live up to.",
+        "Author": "College Freshman",
+        "Date": "2013-01-19T21:56:36.707Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Greek Life at MIT is incredible. The fraternities and sororities are extremely involved on campus and in philanthropic activities. Greek Life is a way to get to know a bunch of cool people like you (whoever you are). MIT Greek Life is based on acceptance, love, and personal development.",
+        "Author": "College Freshman",
+        "Date": "2013-01-06T08:38:02.303Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "There are people from every walk of life here at MIT. I have met a students from at least fifteen different countries just in my graduating class. It is inspiring and amazing to know that these people come from different backgrounds and yet we will all go on to do something great (hopefully, if you can get the grades).",
+        "Author": "College Freshman",
+        "Date": "2012-11-29T14:37:48.74Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Whether you're Greek at MIT or not, most likely you're affected by Greek life in someway or another. The Greeks at MIT are generally nice people, sociable yet smart. They aren't the Animal House Greeks, they're not backstabbers or jerks--they're people who enjoy helping the community and throwing great parties. MIT Greek parties are great. They compete with big state schools; the houses are multilevel party pads and the brothers are generally very hospitable and nice. Students flock from everywhere, including BU, Wellesley, BC, and Harvard--the last school which suffers from the \"douchey\" Greek scene. And MIT Greeks are pretty good looking too--I was surprised.",
+        "Author": "College Sophomore",
+        "Date": "2012-08-25T18:37:57.19Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Around the World – i haven't yet been in an atmosphere more diverse than MIT campus. skin color matters the least of any issue i know of - more important are your creativity, hacking abilities, willingness to try new things, cooking, and psetting skills.  because we have an online, anonymous connection site, people can jump to conclusions (online anonymity will do that) and judge based on 2 sentences that might come across different across the internet than in real life, but it's never about skin color. Sexual identity is the closest we get to a fundamental eye-to-eye disagreement, but that's rarely an issue.",
+        "Author": "College Sophomore",
+        "Date": "2012-08-14T00:06:07.06Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Extremely Diverse – MIT is one of the most diverse environments in which I have lived.  Students from not only all over the US, but all over the world make up MIT's student body.  MIT attracts the student who loves to learn and will truly strive to make a difference, and this type of student is not characterized by a typical race, religion, political view, etc.",
+        "Author": "College Junior",
+        "Date": "2012-08-01T06:19:56.64Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Contrary to Popular Belief, We Love Sports! MIT is one of the top-ranked schools for Division III sports! And we also have crew as a Division I sport and sailing as an internationally recognized sports program. Our sports teams are great and they provide a good balance with the academics here. We have team sports that range from Skiing to underwater hockey. And the facilities for sports are some of the newest at any campus. Most people partake in IM sports of some form and athletes have access to some of the best trainers and sports medicine staff around.",
+        "Author": "College Sophomore",
+        "Date": "2012-07-10T13:27:17.633Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Cute Guy Every Once in a While – There are plenty of cute guys/frat boys, but the overall population is a little too nerdy for my liking.",
+        "Author": "College Sophomore",
+        "Date": "2012-07-07T10:36:04.68Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Big Greek Culture – Over half of the guys pledge a fraternity, and many girls belong to a Sorority, somewhere around 30%. It's a substantial number, and it affects social life in a significant way. That being said, not being Greek does not alienate you from the school in any way. You can still appreciate the events and parties, and you can still have Greek friends, so it's really up to you what you want to do. There are 26 fraternities and 6 sororities, and each one is different, so look around and there's sure to be a match.",
+        "Author": "College Student",
+        "Date": "2012-05-08T19:52:45.453Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Only One D1, but Plenty of Intramurals – Crew is the only Division 1 sport at MIT, but there are over 1,000 intramural teams, and most individual dorm floors have their own team for some sport or other. The facilities are good, and the student body is active. Not a big sports school -- much more into technology.",
+        "Author": "College Student",
+        "Date": "2012-05-08T19:49:15.06Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Punishments Are Severe – The police force can be pretty strict about underage drinking and drug use. First-time offenders get a letter sent home, and second- and third-time offenders are in danger of losing their housing. It's pretty serious if you get caught, so my best advice is to do everything discreetly and not to be obnoxious about it. If you're going to drink then drink, but don't start advertising keg parties in your room. You will get busted!",
+        "Author": "College Freshman",
+        "Date": "2012-03-02T01:27:51.553Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "An Attractive Nerdly Bunch – Everyone here is a nerd in one way or another. Despite that, just about everyone is well-put-together and reasonably attractive. People here are a lot of fun, too: whether you enjoy mad parties (college kids from all over Boston come to MIT parties because they're organized better) or making plasma arcs with friends in the lounge down the hall, there are people willing to do it with you.",
+        "Author": "College Freshman",
+        "Date": "2012-02-11T14:48:40.11Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "As a white student! MIT is fantastic at making everyone feel equal (and equally unintelligent :-D) so that race, sexual orientation and everything else don't really matter. We have a fantastic LGBT support group and a thousand different ethnic organizations.",
+        "Author": "College Senior",
+        "Date": "2012-01-29T16:48:01.29Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Priority of Student's Well-Being and Success – The police and EMS service cares most about the well-being of students. and not under-age drinking. Academic policies are extremely fair. The school provides endless resources to help students succeed.",
+        "Author": "College Sophomore",
+        "Date": "2012-01-20T13:14:32.683Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Diverse Interests – Every weekday there is some student group fundraising for their cause or promoting some sort of message. The range of extracurricular interests is visible, and people respect each other's interests. For the LGBT community, MIT has student groups who do a few campaigns a year, such as a Day of Silence. Outside of those big events, MIT students are very open to all sexual orientations.",
+        "Author": "College Junior",
+        "Date": "2012-01-19T23:47:58.11Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "There is great diversity at MIT in terms of race, sexuality, and origin. Groups of minorities do tend to hang out together in groups, but it's not really a big deal. I love the different perspectives and interests that everyone brings to campus. We all have one thing in common, we're really really smart, no matter what other differences there are.",
+        "Author": "College Sophomore",
+        "Date": "2012-01-19T12:28:50.15Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "PE Requirement Expands Horizons – MIT has a 8 unit PE requirement- meaning 2 seasons of a varsity sport, or 4 PE classes.  This requirement is a great way of keeping kids in a semblance of \"fitness\", and is a fun way to be exposed to different athletic areas. PE classes include archery, pistol, sailing (get your pirates licence with those three!), Pilates, yoga, Zumba, lifting, swimming, SCUBA certification, health, soccer...  There are also varsity sports and three different league levels of intramural sports.",
+        "Author": "College Junior",
+        "Date": "2012-01-19T10:36:22.373Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Freedom Is Great – Our administration is not very strict. They encourage safe hacking, and generally are not concerned too much about alcohol and drugs. If they are, it isn't prominent. Most of the issues come from within the IFC and JuddComm.",
+        "Author": "College Sophomore",
+        "Date": "2012-01-19T10:04:25.577Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Recreational Sports Are Great – Our recreational sports facilities are absolutely amazing. Our Z-center (gym) is state-of-the-art and there are always ways to play a sport in an intramural league or in our wide open field spaces. I can't say much for the varsity sports since I'm not on one, but I can say that the games aren't as widely attended as at Division I sports schools",
+        "Author": "College Junior",
+        "Date": "2012-01-19T08:49:07.647Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Sure, there are plenty of guys and girls that fit the nerdy-looking, socially awkward stereotypes. But I've found that a comment that lots of us hear from people we meet at other schools is \"I wouldn't have expected you to be from MIT.\" there's a whole range of types here: hot and not, trendy and goes-outside-in-pajamas, partiers and those who do homework on Friday nights.",
+        "Author": "College Sophomore",
+        "Date": "2012-01-19T00:46:34.05Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "MIT students are perfectionists. They give their best for their sports and most of us enjoy exercising. I would like more support on athletics events from students out of the sport.",
+        "Author": "College Freshman",
+        "Date": "2012-01-19T00:11:06.62Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Fairly Diverse – You definitely meet people from all over the world that it's amazing. I would say the grad international student population is even bigger than the undergrad though. And in undergrad, you still get your fair amount of Asians",
+        "Author": "College Freshman",
+        "Date": "2012-01-18T23:01:40.03Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "MIT boasts an accepting and diverse student body comprised of driven individuals of all walks of life. There is a strong spirit of cooperation and support in school life which carries on into the openness and fellowship that all students can expect from their peers in their social lives. The faculty takes additional efforts to illuminate and build upon the school's varied background with events and meetings with incoming students, as well as continued programs that help to bridge any gaps one might come across during their time at school. The strongest part of the mixed cultural backgrounds of MIT students is the overall acceptance of other peoples, cultures, and beliefs, and the willingness to learn about and understand them. MIT students for a strong community that is both close-knit and open in its interactions. This is one of the many things that helps make MIT a wonderful place to be.",
+        "Author": "College Freshman",
+        "Date": "2011-12-30T00:34:10.323Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Not That Nerdy, Really! We're really not all that nerdy.  We definitely do have our share of people who live for school and are socially challenged, but we also have people who are extremely social.  The people are my favorite part of MIT.  They're so quirky and you can find some nice, genuine people here.  And, I'll admit that they throw some decent parties.",
+        "Author": "College Sophomore",
+        "Date": "2011-11-07T22:12:49.867Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Mostly Helpful, but You Have Your Moments of Course – In regards to drug and alcohol abuse, MIT offers a safety net for students in that they will have them taken, free of charge, to a hospital if needed and the student will not suffer any consequences from the local police authority or from MIT (if an isolated incident).  The bill is often also covered on MIT insurance, so parents may or may not see it.  This policy is to encourage students to make the right decision and call for help when they need it.\r\nThe police are pretty visible and they give students rides when they need it.  They are accessible and generally friendly.\r\nThere are many hacks at MIT, but there is a code that nothing should be permanently damaged.  Because this is followed strictly, there are usually no problems with authority.\r\nSome things are awful, like shortening REX, imposing a highly strict dining plan, and extending the length of the semesters, but you have to suck it up when you go to a school like MIT.",
+        "Author": "College Sophomore",
+        "Date": "2011-11-07T22:04:16.213Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Pretty Diverse – MIT is actually fairly international place and we have many people from different backgrounds.  There's always someone in the halls speaking another language and you really get a good feel for others' cultures while you're here.  There are also tons of student cultural groups where you can explore different things.",
+        "Author": "College Sophomore",
+        "Date": "2011-11-07T21:57:51.09Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Don't Be Stupid – As long as you don't do anything to put anyone (including your self) in danger, strictness is not really an issue. Academic policies tend to be flexible, if you petition the right group you can usually get what you want.",
+        "Author": "College Freshman",
+        "Date": "2011-09-25T14:52:15.46Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Greeks Are Great – The Greek community facilitates both great friendships and close bonds as well as helps organize social events for the rest of campus.",
+        "Author": "College Freshman",
+        "Date": "2011-09-25T14:50:33.033Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "We have an amazing athletics program. Athletics are really important to students even as a DIII school. We have great sports trainers and an awesome athletics center.",
+        "Author": "College Senior",
+        "Date": "2011-08-05T00:05:13.783Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Not What You Might Think – Contrary to popular belief, MIT does not wholly consist of nerds who sit inside and do homework all day. The good thing about a Division III school is that it's really easy to get involved in a new sport. Even if you don't have the time to go all in and try to play varsity, there's plenty of club sports and intramurals that anyone can get involved in as often as they like. Although our sporting events don't get a lot of spectators, it's hard to not know anyone that's participating in a competition sport; most people have been to a game or another here or there. The teams show a lot of spirit and are very close knit groups of people that are always welcome to new friends and members. A lot of freshmen men get involved in varsity crew for this reason (we actually do row in division I).",
+        "Author": "College Sophomore",
+        "Date": "2011-07-25T01:23:26.81Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "A Great Experience – 50% guys, 25% girls are greek. The greek scene doesn't dominate campus, but it's a fantastic support group and source of fun for those who choose to be members. The greek atmosphere relates somewhat to the campus atmosphere, which is part of what makes the greek community so great, because you know that you have something in common with everyone, no matter what their affiliation, because we're all nerds in one way or another.",
+        "Author": "College Junior",
+        "Date": "2011-03-25T15:47:20.247Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "More Diverse Than Meets the Eye – The students are not all nerds, but you can find an inner geek in most students, even the hard-core partyers. The dorms each have a very unique culture.",
+        "Author": "College Freshman",
+        "Date": "2010-12-28T20:32:58.657Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "You're Given Your Freedoms, but Don't Abuse Them – The police are definitely out of your face. Most frats are off campus, so they also have less control.",
+        "Author": "College Freshman",
+        "Date": "2010-12-28T20:29:51.463Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "MIT accepts based on merit, so the diversity students at this school stand their ground and are truly exceptional.  MIT LGBT students are also highly prevalent on campus, and have activities that are all inclusive.  MIT has a global orientation and outlook, so anyone from any race would feel included here.",
+        "Author": "Recent Alumnus",
+        "Date": "2010-12-24T01:59:47.16Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Go crazy – at MIT they try their best to make sure that the students here can work hard and then play hard. I haven't heard of MIT police arresting anyone for alcohol use. The police here are really nice and you can get away with most anything if you aren't stupid about it.",
+        "Author": "College Sophomore",
+        "Date": "2010-12-18T19:40:33.297Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "At MIT, more than half of boys and a good percentage of girls are a part of a frat or sorority. It's a big part of the school because frat parties dominate the socializing scene.",
+        "Author": "College Sophomore",
+        "Date": "2010-10-04T17:12:02.013Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Not Too Hot – Both the girls and the boys at MIT are not too attractive, although they make up for that with intelligence. Once in a while though, you can find one or two that are worth a double take.",
+        "Author": "College Sophomore",
+        "Date": "2010-10-04T17:08:49.2Z"
+    },
+    {
+        "Rating": 4,
+        "Review": "Pretty Diverse, Mostly Asian – you can find lots of different races and religions at MIT, although the majority of the school seems to be asian.",
+        "Author": "College Sophomore",
+        "Date": "2010-10-04T17:06:25.497Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Good Balance – The campus police are mostly around to ensure safety. There aren't too many crackdowns on underage drinking and such, as the party scene is quite large here. Academic-wise, however, it is in your best interest to follow the integrity policy as professors will dish out punishments accordingly if caught cheating or copying.",
+        "Author": "College Freshman",
+        "Date": "2010-05-29T19:56:48.337Z"
+    },
+    {
+        "Rating": 3,
+        "Review": "Sports Not in Spotlight – While there is a good variety of sports, and a solid athletic program, unlike most schools, athletics are not as big of a deal here. They're visible, but not a top priority. However, among the people you meet are still a large number of athletes. IM sports are more common across the general population.",
+        "Author": "College Freshman",
+        "Date": "2010-05-29T19:54:57.283Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "Melting Pot – Coming from a small town in a red state, MIT's diversity was spectacular.  People are very open and accepting, people have very different tastes, and it's very easy to meet people with the same interests, economic backgrounds, or religious affiliations or sexual orientation.",
+        "Author": "College Sophomore",
+        "Date": "2010-04-15T19:12:51.733Z"
+    },
+    {
+        "Rating": 5,
+        "Review": "You really shouldn't go on rooftops, or you can get fined if caught... Yet every year, the frosh and prefrosh go on tours that take them up there with no problems.\r\nIf you drink and you weren't suppose to, you might get yelled at, or your parents might be informed, but usually that doesn't happen. My friend ended up in medical after over-drinking. He had also fallen and hurt his head. They ended up shaving his hair off. Well, he's still around and nothing else happened. \r\nParties that involve alcohol in your dorm buildings have to be registered in advanced, but it is a very straightforward process.\r\nUnless you are planning to hurt someone or damage property, you're likely not to get in much trouble.",
+        "Author": "Recent Alumnus",
+        "Date": "2010-04-08T15:48:31.75Z"
+    }
+]

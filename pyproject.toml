@@ -1,0 +1,38 @@
+[tool.poetry]
+name = "data"
+version = "0.1.0"
+description = "A data-focused project"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+# 已安裝的主要依賴
+openai = "1.59.8"
+langchain = "0.3.9"
+langchain-google-genai = "2.0.5"
+langchain-community = "0.3.8"
+google-generativeai = "0.8.3"
+python-dotenv = "1.0.1"
+pytest = "8.3.4"
+flask = "3.1.0"
+pandas = "2.2.3"
+line-bot-sdk = "3.14.3"
+langchain-openai = "0.2.14"
+pymysql = "1.1.1"
+redis = "5.2.1"
+cryptography = "44.0.0"
+faiss-cpu = "1.9.0.post1"
+selenium = "4.27.1"
+webdriver-manager = "4.0.2"
+openpyxl = "3.1.5"
+mysql-connector-python = "^9.1.0"
+kagglehub = "^0.3.8"
+ace-tools = "^0.0"
+fuzzywuzzy = "^0.18.0"
+python-levenshtein = "^0.26.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
